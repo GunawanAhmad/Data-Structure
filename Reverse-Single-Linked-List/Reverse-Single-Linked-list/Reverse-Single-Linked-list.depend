@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1594196008 source:d:\coding\data-structure\reverse-single-linked-list\reverse-single-linked-list\main.cpp
+	<iostream>
+	"header.h"
+
+1594194747 d:\coding\data-structure\reverse-single-linked-list\reverse-single-linked-list\header.h
+	<iostream>
+
+1594196526 source:d:\coding\data-structure\reverse-single-linked-list\reverse-single-linked-list\code.cpp
+	<iostream>
+	"header.h"
+
