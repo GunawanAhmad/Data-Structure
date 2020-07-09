@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1594290746 source:d:\coding\data-structure\reversed-double-linked-list\main.cpp
+	<iostream>
+	"header.h"
+
+1594290072 d:\coding\data-structure\reversed-double-linked-list\header.h
+	<iostream>
+
+1594290711 source:d:\coding\data-structure\reversed-double-linked-list\codee.cpp
+	<iostream>
+	"header.h"
+

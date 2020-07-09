@@ -5,6 +5,7 @@ using namespace std;
 
 void createList(List &L) {
     first(L) = NULL;
+    last(L) = NULL;
 }
 
 void createNewElmt(infotype x, address &p) {
